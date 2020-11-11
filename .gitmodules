@@ -2,31 +2,39 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
+	branch = HEAD
 [submodule "ids"]
 	path = ids
 	url = https://github.com/richfitz/ids
 	shallow = true
+	branch = HEAD
 [submodule "redux"]
 	path = redux
 	url = https://github.com/richfitz/redux
 	shallow = true
+	branch = HEAD
 [submodule "ring"]
 	path = ring
 	url = https://github.com/richfitz/ring
 	shallow = true
+	branch = HEAD
 [submodule "stevedore"]
 	path = stevedore
 	url = https://github.com/richfitz/stevedore
 	shallow = true
+	branch = HEAD
 [submodule "storr"]
 	path = storr
 	url = https://github.com/richfitz/storr
 	shallow = true
+	branch = HEAD
 [submodule "thor"]
 	path = thor
 	url = https://github.com/richfitz/thor
 	shallow = true
+	branch = HEAD
 [submodule "TRAMPR"]
 	path = TRAMPR
 	url = https://github.com/richfitz/trampr
 	shallow = true
+	branch = HEAD

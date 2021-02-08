@@ -3,17 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "ids"]
-	path = ids
-	url = https://github.com/richfitz/ids
-	shallow = true
 [submodule "redux"]
 	path = redux
 	url = https://github.com/richfitz/redux
-	shallow = true
-[submodule "ring"]
-	path = ring
-	url = https://github.com/richfitz/ring
 	shallow = true
 [submodule "stevedore"]
 	path = stevedore

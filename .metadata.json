@@ -1,0 +1,22 @@
+[
+  {
+    "package": "redux",
+    "oncran": true
+  },
+  {
+    "package": "stevedore",
+    "oncran": true
+  },
+  {
+    "package": "storr",
+    "oncran": true
+  },
+  {
+    "package": "thor",
+    "oncran": true
+  },
+  {
+    "package": "TRAMPR",
+    "oncran": true
+  }
+]

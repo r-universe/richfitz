@@ -1,5 +1,9 @@
 [
   {
+    "package": "diversitree",
+    "oncran": true
+  },
+  {
     "package": "redux",
     "oncran": true
   },

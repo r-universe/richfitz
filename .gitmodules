@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "thor"]
+	path = thor
+	url = https://github.com/richfitz/thor
+	shallow = true
+	registered = true
 [submodule "redux"]
 	path = redux
 	url = https://github.com/richfitz/redux
-	shallow = true
-	registered = true
-[submodule "stevedore"]
-	path = stevedore
-	url = https://github.com/richfitz/stevedore
 	shallow = true
 	registered = true
 [submodule "storr"]
@@ -18,9 +18,9 @@
 	url = https://github.com/richfitz/storr
 	shallow = true
 	registered = true
-[submodule "thor"]
-	path = thor
-	url = https://github.com/richfitz/thor
+[submodule "stevedore"]
+	path = stevedore
+	url = https://github.com/richfitz/stevedore
 	shallow = true
 	registered = true
 [submodule "TRAMPR"]

@@ -1,10 +1,10 @@
 [
   {
-    "package": "redux",
+    "package": "thor",
     "oncran": true
   },
   {
-    "package": "stevedore",
+    "package": "redux",
     "oncran": true
   },
   {
@@ -12,7 +12,7 @@
     "oncran": true
   },
   {
-    "package": "thor",
+    "package": "stevedore",
     "oncran": true
   },
   {

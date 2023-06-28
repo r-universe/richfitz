@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "diversitree"]
 	path = diversitree
 	url = https://github.com/richfitz/diversitree
-	shallow = true
-	registered = true
 [submodule "redux"]
 	path = redux
 	url = https://github.com/richfitz/redux
-	shallow = true
-	registered = true
 [submodule "stevedore"]
 	path = stevedore
 	url = https://github.com/richfitz/stevedore
-	shallow = true
-	registered = true
 [submodule "storr"]
 	path = storr
 	url = https://github.com/richfitz/storr
-	shallow = true
-	registered = true
 [submodule "thor"]
 	path = thor
 	url = https://github.com/richfitz/thor
-	shallow = true
-	registered = true
 [submodule "TRAMPR"]
 	path = TRAMPR
 	url = https://github.com/richfitz/trampr
-	shallow = true
-	registered = true

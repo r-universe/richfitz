@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "TRAMPR"]
+	path = TRAMPR
+	url = https://github.com/richfitz/trampr
 [submodule "diversitree"]
 	path = diversitree
 	url = https://github.com/richfitz/diversitree
@@ -17,6 +20,3 @@
 [submodule "thor"]
 	path = thor
 	url = https://github.com/richfitz/thor
-[submodule "TRAMPR"]
-	path = TRAMPR
-	url = https://github.com/richfitz/trampr
